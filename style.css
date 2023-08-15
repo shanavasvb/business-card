@@ -1,0 +1,33 @@
+img
+{
+	width: 200px;
+	height: 200px;
+}
+.full
+{
+	display: flex;
+	
+	padding: 20px;
+background: blueviolet;
+border-bottom-color: 5px solid blue;
+}
+body
+{
+	margin:100px 200px 100px 200px;
+	border: 6px solid green;
+	font-family: cursive;
+ }
+.text
+{
+	text-align: left;
+	display: block;
+	padding-left: 20px;
+}
+p
+{
+	font-family: fantasy;
+}
+h3
+{
+	font-family: monospace;
+}
