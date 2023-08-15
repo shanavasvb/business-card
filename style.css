@@ -6,16 +6,18 @@ img
 .full
 {
 	display: flex;
-	
 	padding: 20px;
-background: blueviolet;
-border-bottom-color: 5px solid blue;
+	background: red;
+	background-size: auto;
+    
+
 }
 body
 {
 	margin:100px 200px 100px 200px;
 	border: 6px solid green;
 	font-family: cursive;
+	background: blueviolet;
  }
 .text
 {
